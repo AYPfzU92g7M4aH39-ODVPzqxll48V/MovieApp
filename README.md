@@ -1,4 +1,4 @@
-# WebApp
+# MovieApp
 
 -> I dont know what to do yet <br/>
 -> Decided to go with movie app <br/>
